@@ -1,0 +1,2 @@
+﻿D:\UPS\Maestria de Software\M08 Automatizacion Software\WebBanking\WebBanking\BankingLibrary\Interes.cs
+D:\UPS\Maestria de Software\M08 Automatizacion Software\WebBanking\WebBanking\BankingLibrary\Operaciones.cs
